@@ -7,7 +7,7 @@
   "database": {
     "client": "sqlite3",
     "connection": {
-      "filename": "/home/rporras/codes/public_projects/ghost-gatsby-jamstack/ghost/content/data/ghost-local.db"
+      "filename": "content/data/ghost-local.db"
     }
   },
   "mail": {
@@ -21,6 +21,6 @@
   },
   "process": "local",
   "paths": {
-    "contentPath": "/home/rporras/codes/public_projects/ghost-gatsby-jamstack/ghost/content"
+    "contentPath": "content"
   }
 }
