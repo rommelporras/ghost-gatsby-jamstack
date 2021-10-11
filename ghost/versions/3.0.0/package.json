@@ -87,7 +87,7 @@
     "js-yaml": "3.13.1",
     "jsonpath": "1.0.2",
     "jsonwebtoken": "8.5.1",
-    "keypair": "1.0.1",
+    "keypair": "1.0.4",
     "knex": "0.19.5",
     "knex-migrator": "3.4.0",
     "lodash": "4.17.15",
